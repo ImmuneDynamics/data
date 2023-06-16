@@ -6,17 +6,17 @@ Main page: https://immunedynamics.github.io/spectre/
 
 **Datasets**:
 
-`demo.asinh.RData`
+`demo.start.RData`: flow cytometry data
 
-`demo.batches.1.RData`
+`demo.asinh.RData`: flow cytometry data with arcsinh transformed values
 
-`demo.clustered.RData`
+`demo.clustered.RData`: flow cytometry data with arcsinh transformed values, clustering, UMAP coordinates, and annotated cell types
 
-`demo.exp.RData`
+`demo.batches.1.RData`: flow cytometry data multiple batches
 
-`demo.start.RData`
+`demo.exp.RData`: summarised expression values per cluster
 
-`demo.sum.RData`
+`demo.sum.RData`: summarised population data (cells per population per sample, etc)
 
 <br /> 
 
