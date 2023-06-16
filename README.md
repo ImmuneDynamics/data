@@ -1,6 +1,6 @@
 # Demo datasets for the Spectre package
 
-Main page: https://immunedynamics.github.io/spectre/
+Demo datasets used for workflow examples and tutorials for the Spectre R package. Main page: https://immunedynamics.github.io/spectre/
 
 <br /> 
 
